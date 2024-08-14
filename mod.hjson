@@ -1,0 +1,8 @@
+name: "morewaves"
+displayName: "More Waves"
+author: "SpiralSky"
+description: "A Mod that doubles campaign waves"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
