@@ -11,7 +11,7 @@ Events.on(SectorLaunchEvent, event => {
         if (spawn.effect == StatusEffects.boss) {
             spawn.end = newWinWave;
             spawn.spacing = 5;
-            spawn.unitScaling = 1;
+            spawn.unitScaling = 2;
         }
     })
 })
